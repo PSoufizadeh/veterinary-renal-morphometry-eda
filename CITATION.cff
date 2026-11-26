@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "Please cite the associated article when referencing this work."
+title: "Veterinary Renal Morphometry - Exploratory Data Analysis"
+type: software
+authors:
+  - family-names: Soufizadeh
+    given-names: Parham
+preferred-citation:
+  type: article
+  title: "Quantitative Evaluation of Renal Morphology and Volumetry in Healthy Dogs and Cats Using CT and Advanced Statistical Models"
+  authors:
+    - family-names: Modarres Tonekabony
+      given-names: Seyyed Hossein
+    - family-names: Soufizadeh
+      given-names: Parham
+    - family-names: Molazem
+      given-names: Mohammad
+  journal: "Veterinary Radiology & Ultrasound"
+  doi: 10.1111/vru.70287
