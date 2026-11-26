@@ -1,0 +1,85 @@
+# Confidential clinical and research data
+data/
+datasets/
+raw_data/
+processed_data/
+clinical_data/
+*.csv
+*.xlsx
+*.xls
+*.parquet
+*.json
+*.db
+*.sqlite
+
+# Medical imaging data
+*.dcm
+*.dicom
+*.nii
+*.nii.gz
+
+# SPSS files
+*.sav
+*.zsav
+*.spv
+*.sps
+*.por
+
+# GraphPad Prism files
+*.prism
+*.pzfx
+*.pzf
+
+# Research results and analytical reports
+results/
+outputs/
+reports/
+figures/
+exports/
+*.html
+*.pdf
+*.docx
+*.png
+*.jpg
+*.jpeg
+*.svg
+*.tiff
+
+# Serialized data and models
+*.pkl
+*.pickle
+*.joblib
+*.npy
+*.npz
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Python environment
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.cache/
+
+# Credentials and secrets
+.env
+.env.*
+secrets/
+*.key
+
+# Temporary files and logs
+*.log
+*.tmp
+
+# Archives
+*.zip
+*.rar
+*.7z
+
+# IDE and operating system
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
